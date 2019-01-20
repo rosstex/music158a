@@ -1,0 +1,13 @@
+Python version: 2.7.11
+Dependencies:
+ - networkx (pip install networkx)
+ - numpy (pip install numpy)
+ - remix (pip install remix)
+
+ Instructions for project can be found in the Max patch, final_proj. Or by watching the video.
+
+ Youtube video:
+ https://www.youtube.com/watch?v=DL8vJO05DCs
+
+
+ This class has been awesome! But I say more in the video.
